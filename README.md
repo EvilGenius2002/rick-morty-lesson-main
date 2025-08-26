@@ -1,8 +1,5 @@
-# React + Vite
+# Контейнеры и презентационные компоненты
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Изменил стили для карточек персонажей: они расширяются чтобы вместить более длинную информацию
+Добавил функционал: списки теперь можно свернуть обратно повторным кликом
+Добавил отображение списка локаций с персонажами на этих локациях, если список персонажей пуст, то отображается соответствующее сообщение
